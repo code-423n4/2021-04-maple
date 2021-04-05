@@ -7,7 +7,7 @@ Set up repos:
 Configure the contest report form in Netlify:
 - [ ] Go to app.netlify.com » create new site (from GitHub)
 - [ ] Choose `reporter` repo. Select advanced options.
-- [ ] Add env variables, changing the contest #, sponsors, and repo like so:
+- [ ] Add env variables based on the example below, changing the contest #, sponsors:
 ```
 REACT_APP_C4_CONTEST=1
 REACT_APP_C4_SPONSOR=“Slingshot”
