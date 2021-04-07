@@ -15,5 +15,3 @@ All technical documentation for the protocol is located in the maple-core [wiki]
 The commit hashes to be used for this contest are 
 - `maple-core`: `blank`
 - `maple-token`: `cb8aab71590550ca6058250f705a0ab52e209585`
-
-Please have contracts and documentation added to this repo **no less than 8 hours prior to contest start time.**
