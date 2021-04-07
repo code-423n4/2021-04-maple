@@ -8,10 +8,13 @@
 
 ---
 
-The codebase to audit will be https://github.com/maple-labs/maple-core, which includes the MPL token as a submodule (repo located [here](https://github.com/maple-labs/maple-token)).
 
-All technical documentation for the protocol is located in the maple-core [wiki](https://github.com/maple-labs/maple-core/wiki).
+The codebase to audit will be the `maple-core` repository (located [here](https://github.com/maple-labs/maple-core)), which includes the MPL token as a submodule (`maple-token` repo located [here](https://github.com/maple-labs/maple-token)).
+
+All technical documentation for the protocol is located in the `maple-core` [wiki](https://github.com/maple-labs/maple-core/wiki).
 
 The commit hashes to be used for this contest are 
-- `maple-core`: `blank`
+- `maple-core`: `031374b2609560ade825532474048eb5826dec20`
 - `maple-token`: `cb8aab71590550ca6058250f705a0ab52e209585`
+
+It should be noted that there will be code that is merged into the develop branch of `maple-core` during the course of the Code Arena audit, but it will not be related to updating any functionality. It will just be for adding/refactoring tests, creating an end-to-end launch simulation using HEVM, and potentially updating events.
