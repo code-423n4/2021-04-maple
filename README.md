@@ -18,3 +18,11 @@ The commit hashes to be used for this contest are
 - `maple-token`: `cb8aab71590550ca6058250f705a0ab52e209585`
 
 It should be noted that there will be code that is merged into the develop branch of `maple-core` during the course of the Code Arena audit, but it will not be related to updating any functionality. It will just be for adding/refactoring tests, creating an end-to-end launch simulation using HEVM, and potentially updating events.
+
+Any technical questions that wardens have can be answered privately through Discord DMs. Discord contacts for the Maple smart contracts team are listed below:
+
+```
+- Lucas Manuel,   Solidity Tech Lead - @Lucas Manuel | Maple#7833
+- Satyam Agrawal, Solidity Engineer  - @bakii_agl#6577
+- Michael Elliot, Solidity Engineer  - @0xMike#6351
+```
