@@ -30,4 +30,5 @@ Any technical questions that wardens have can be answered privately through Disc
 Note: Original commit hashes were:
 - `maple-core`: `031374b2609560ade825532474048eb5826dec20`
 - `maple-token`: `cb8aab71590550ca6058250f705a0ab52e209585`
+
 But have been updated and finalized to the ones shown above.
